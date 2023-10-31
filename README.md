@@ -1,5 +1,5 @@
-<h1 align="center">Hello there</h1>
-<h3 align="center">Nothing to see here</h3>
+<!-- <h1 align="center">Hello there</h1>
+<h3 align="center">Nothing to see here</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=confirmdev&label=Profile%20views&color=0e75b6&style=flat" alt="confirmdev" /> </p> -->
 
@@ -41,5 +41,8 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=confirmdev&show_icons=true&locale=en&layout=compact" alt="confirmdev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ConfirmDev&theme=dark&show_icons=true&hide=contribs,prs" alt="confirmdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfirmDev&theme=dark&hide_progress=false" alt="confirmdev" />
+</p>
+
 
