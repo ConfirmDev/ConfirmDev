@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **Computer Engineering** -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+Software+Engineer;Love+to+Help+People+with+Coding;Let+Me+Know+Your+Idea)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+Developer;Love+to+Help+People+with+Coding;Let+Me+Know+Your+Idea)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://linkedin.com/in/aiman-syamiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-syamiel" height="30" width="40" /></a>
 </p>
