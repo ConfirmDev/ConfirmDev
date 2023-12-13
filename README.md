@@ -5,13 +5,13 @@
 
 <!-- - 🌱 I’m currently learning **Computer Engineering** -->
 
-<h3 align="left">Click here if you want to see more about me</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+Software+Engineer;Love+to+Help+People+with+Coding;Let+Me+Know+Your+Idea)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://linkedin.com/in/aiman-syamiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-syamiel" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">Currently focusing on this Languages for my project:</h3>
+
 <p align="left"> 
   
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
