@@ -1,19 +1,16 @@
-<!-- <h1 align="center">Hello there</h1>
-<h3 align="center">Nothing to see here</h3> -->
+<p>
+  <a href="https://linkedin.com/in/aiman-syamiel" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="40" />
+</a>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=confirmdev&label=Profile%20views&color=0e75b6&style=flat" alt="confirmdev" /> </p> -->
-
-<!-- - 🌱 I’m currently learning **Computer Engineering** -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+Developer;Love+to+Help+People+with+Coding;Let+Me+Know+Your+Idea)](https://git.io/typing-svg)
-<p align="left">
-<a href="https://linkedin.com/in/aiman-syamiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-syamiel" height="30" width="40" /></a>
+<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Future+Developer;Love+to+Help+People+with+Coding;Let+Me+Know+Your+Idea" />
 </p>
 
 
 
+
+
 <p align="left"> 
-  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   
@@ -40,9 +37,7 @@
   
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ConfirmDev&theme=dark&show_icons=true&hide=contribs,prs" alt="confirmdev" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfirmDev&theme=dark&hide_progress=false" alt="confirmdev" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfirmDev&layout=donut-vertical&theme=dark&hide_progress=false)
 
